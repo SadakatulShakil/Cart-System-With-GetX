@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
    const kItemNameStyle =
-  TextStyle(fontWeight: FontWeight.bold, fontSize: 18);
+  TextStyle(fontWeight: FontWeight.bold, fontSize: 16);
 
-   const kItemColorStyle =
-  TextStyle(fontWeight: FontWeight.w400, fontSize: 15,color: Colors.black54);
+   const kItemOriginStyle =
+  TextStyle(fontWeight: FontWeight.w400, fontSize: 14,color: Colors.black54);
 
    const kItemPriceStyle =
-  TextStyle(fontWeight: FontWeight.w500, fontSize: 16);
+  TextStyle(fontWeight: FontWeight.w500, fontSize: 12);
